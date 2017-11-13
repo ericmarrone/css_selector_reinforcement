@@ -1,0 +1,17 @@
+p {
+  color: orange;
+
+}
+
+a:hover {
+
+  color:red;
+}
+
+h1 {
+  font-size: 3.5em;
+}
+
+.photo{
+  display: inline-block;
+}
